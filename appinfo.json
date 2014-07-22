@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Omar G",
+    "longName": "Chess Clock",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/20140718-093703407.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICON",
+                "type": "png"
+            },
+            {
+                "file": "fonts/a_FuturicaLt Thin.ttf",
+                "name": "FONT_FUTURIAL_30",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Chess Clock",
+    "uuid": "3af5291d-2bfb-4f79-8aee-03c4bc2f46c4",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
