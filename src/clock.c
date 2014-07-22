@@ -191,8 +191,8 @@ void select_long_release_handler(ClickRecognizerRef recognizer, void *window) {
   if (current_state_1 == SETTING_1 && current_state_2 == SETTING_2)
     {
     //Flag goes here
-    current_state_1 = SETTING_1;
-    current_state_2 = SETTING_2;
+    current_state_1 = COUNTING_DOWN_1;
+    current_state_2 = PAUSED_2;
     //flag goes here
     // }
   }
