@@ -49,8 +49,8 @@ InverterLayer *inverter_layer;
 
 Layer *unit_marker;
 
-enum State_1 current_state_1 = DONE_1;
-enum State_2 current_state_2 = DONE_2;
+enum State_1 current_state_1 = SETTING_1;
+enum State_2 current_state_2 = SETTING_2;
 
 int total_seconds_1;
 int total_seconds_2;
